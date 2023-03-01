@@ -1,0 +1,29 @@
+section {
+    width: 875px;
+    border: 4px solid rgb(128, 124, 0);
+    padding: 50px;
+    margin: 50px 10px 20px 75px;
+    background-color: azure;
+  }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  nav {
+    list-style-type: none;
+    margin: 75px;
+    padding: 10px;
+    background-color: rgb(242, 218, 185);
+    width: 200px;
+    text-align: center;
+  }
+  h3 {
+    color: navy;
+}
+div {
+  width: 940px;
+  margin: 20px 10px 50px 75px;
+  border: 1px solid;
+  padding: 20px;
+}
